@@ -5,7 +5,8 @@
 ## My skills & hobbies
 
 - I have 15 years of experience in web development, and proficient in HTML, CSS, JavaScript, TypeScript, NodeJS, Electron.
-- I'm also proficient in both Graphic and Imaging algorithms, and have experience building these types of apps.
+- I'm skilled in Graphic Algorithms, and have rich experience building Graphic Apps.
+- I have rich experience in building and refactoring UI systems.
 - I enjoy collecting and categorizing data.
 
 
@@ -25,8 +26,8 @@
 
 After graduated and before first work.
 
-- Played World of Warcraft much, made several plugins and model modifying tools.
-- Created [WoW Professions](https://github.com/pucelle/wow-professions), [WoW Rare Finder / Atlasloot](https://github.com/pucelle/wow-rare-finder-atlasloot), they are not only tools, but also the expression of my feelings to wow.
+- Played World of Warcraft much, made several plugins and model modifying tools for WoW.
+- Created [WoW Professions](https://github.com/pucelle/wow-professions), [WoW Rare Finder / Atlasloot](https://github.com/pucelle/wow-rare-finder-atlasloot), they represented my feelings to WoW.
 
 
 
@@ -38,9 +39,9 @@ Worked at <https://cfzx.cn/> (Not available any more), daily work is building we
 
 ## Betweens 2011~2015
 
-Worked at MorningStar [Advisor WorkStation](https://workstation.morningstar.com/support/help-topics/blt9ac9152cd301abb7/blt717e87c790ee413a?lang=en-us) team.
+Worked at MorningStar [Advisor WorkStation](https://workstation.morningstar.com/support/help-topics/blt9ac9152cd301abb7/blt717e87c790ee413a?lang=en-us) team, as a frontend developer.
 
-My daily work is developing and maintaining an advisor system for investors. Here we use [Ext.js](https://www.sencha.com/products/extjs/) framework, it's a professional and amazing framework, which totally affected my code style.
+My daily work is developing and maintaining an advisor system for investors. Here we use [Ext.js](https://www.sencha.com/products/extjs/) framework, it's an amazing framework, which totally affected my code style.
 
 The culture and design style of MorningStar have greatly influenced on me.
 
@@ -48,7 +49,7 @@ The culture and design style of MorningStar have greatly influenced on me.
 
 ## Betweens 2015~2018
 
-Joined [WangXuTech](https://www.wangxutech.com/) to meet more challenges, as frontend leader.
+Joined [WangXuTech](https://www.wangxutech.com/) to seek more challenges, as frontend leader.
 
 
 
@@ -58,7 +59,7 @@ Joined [WangXuTech](https://www.wangxutech.com/) to meet more challenges, as fro
 
 It's a web tool that can manage phone resources.
 
-Although still available, some features had been broken due to lack of maintenance, and some ugly ads had been added.
+Although still available, some features broken due to lack of maintenance, and some ugly ads added.
 
 
 
@@ -72,11 +73,11 @@ Although still available, some features had been broken due to lack of maintenan
 
 
 
-### [Phone Manager](https://www.apowersoft.com/phone-manager)
+### [Apower Phone Manager](https://www.apowersoft.com/phone-manager)
 
 <img src="./images/phone-manager.jpg" width="800" height="532">
 
-Powered by Electron.
+A phone manager app, powered by Electron.
 
 
 
@@ -90,13 +91,7 @@ It's an internal web app, I created it in my pocket of time to manage translatio
 
 ## Betweens 2018~2019
 
-A gap year, making a 'white-space' in mind to avoid just being a task-doer and to try to become a thinker.
-
-
-
-### Reading
-
-Reading design books, especially design psychology books.
+A gap year, making a 'white-space' in mind, reading & learning, try to change from a task-doer to a thinker.
 
 
 
@@ -104,9 +99,9 @@ Reading design books, especially design psychology books.
 
 **CSS Navigation** is a VSCode plugin.
 
-When I'm learning TypeScript and wanting to go deeper, and found no good css plugin at that moment, I created this plugin.
+When I'm learning TypeScript and wanting to go deeper, and also found no good css plugin at that moment, so I created this plugin to practice my TypeScript skill.
 
-It is 10x faster with only 1/10 memory usage and package size than it's competitors. Has 580K installs.
+It is 10x faster with only 1/10 memory usage and package size than it's competitors. Has 590K installs recently.
 
 
 
@@ -114,16 +109,16 @@ It is 10x faster with only 1/10 memory usage and package size than it's competit
 
 <img src="./images/azeroth-venture.jpg" width="800" height="400">
 
-On 2019, when World of Warcraft Classic launched, I created this site, it's a single-page web application, it helped me exploring Azeroth.
+On 2019, when World of Warcraft Classic launched, I created this site, it's a single-page web application, I designed it from my own perspective, and it helped me exploring Azeroth well.
 
-It provides much more convenient user experience for querying than other apps, I designed this app from my own perspective, and try to reach final query result directly.
+It provides much more convenient user experience for querying than other apps, and try to reach final query result directly.
 
 
 
 ### Others
 
-- [flit.js](https://github.com/purhya/flit.js): A MVVM framework, had been obsoleted.
-- [flit.ui](https://github.com/purhya/flit.ui): A UI library based on flit.js, serves [Azeroth Venture](https://wow.playjournals.com/classic/en/), had been obsoleted.
+- [flit.js](https://github.com/purhya/flit.js): A MVVM framework, obsoleted.
+- [flit.ui](https://github.com/purhya/flit.ui): A UI library based on flit.js, serves [Azeroth Venture](https://wow.playjournals.com/classic/en/), obsoleted.
 - [Run on Save](https://github.com/pucelle/vscode-run-on-save): A vscode plugin, just for convenience when compiling Sass codes.
 
 
@@ -136,7 +131,7 @@ Back to WangXuTech, start new career as an algorithm engineer.
 
 ### [OpenGL Effects](https://github.com/purhya/gl-effects-preview)
 
-OpenGL effects, serves some photo/video editing apps. Feature includes:
+OpenGL effects, includes some OpenGL guides, preview of Color Adjustment and Transition effects. It serves some photo/video editing apps.
 
 - [Color Adjustment](https://purhya.github.io/gl-effects-preview/#color-adjustment/)
 - [Transitions](https://purhya.github.io/gl-effects-preview/#transitions/)
@@ -149,9 +144,9 @@ OpenGL effects, serves some photo/video editing apps. Feature includes:
 
 **AEGL** aimed on rendering After Effects template with OpenGL, I created it for enhancing [LightMV](https://lightmv.com/).
 
-This project had been abandoned because it encodes videos too slowly on browsers (20x slower than desktop apps), and AE is too complex, especially it's plugin system.
+This project had been abandoned because it encodes videos too slowly on browsers (20x slower than desktop apps).
 
-Two years later, web codecs APIs becomes available, I replaced the video encoder and achieved 10x increasement in encoding speed. If aimed on implementing an independent app, not reply on AE to make template, this project is more closer to reality.
+Two years later, web codecs APIs becomes available, I replaced the video encoder and achieved 10x increasement in encoding speed. If aimed on implementing an independent app, not reply on AE to make template, this project is closer to reality.
 
 
 
@@ -161,13 +156,13 @@ Two years later, web codecs APIs becomes available, I replaced the video encoder
 
 **Mindmap Core** is a mindmap library for [GitMind](https://gitmind.com/).
 
-This library uses SVG to render just like other mindmap apps, but it increases performance much by reducing document reading and writing and re-layout times. Otherwise, the library uses vector and direction modeling simplifies complex math computations.
+This library uses SVG to render just like other mindmap apps, but it improves performance much by bunching document reading and writing, so it reduces re-layout frequency. Otherwise, the library uses vector and direction modeling simplifies math computations.
 
 
 
 ### Others
 
-- Matting Algorithm Implementation and Improvement: By removing image background, an alpha image generated. My task is to research papers, and implement several in Python AOT / OpenGL, optimize parameters, compare and choose.
+- Matting Algorithm Implementation and Improvement: one of our team trains AI for removing image background, it generates alpha images for uploaded images. My task is researching papers, and implementing several in Python AOT / OpenGL, optimize parameters, compare and choose best.
 - Other Image Enhancement Algorithm Design and Implementation: Like skin smoothing, tune enhancement...
 
 
@@ -175,9 +170,9 @@ This library uses SVG to render just like other mindmap apps, but it increases p
 ## 2023 ~
 
 
-### Researches & Solves.
+### Reading & Researching.
 
-Research on Information Flow Design.
+Reading and Researching on Design Psychology, Information Flow Design.
 
 
 
@@ -185,15 +180,12 @@ Research on Information Flow Design.
 
 **lupos** is a framework to support component-based programming in TypeScript.
 
-In my web system programming career, especially in [AEGL](https://github.com/purhya/gl-effects-preview/#aegl) and [Mindmap Core](https://github.com/purhya/mindmap-preview), I realized there are two problems can't be solved by experience or design:
+In my web system programming career, I realized there are two problems can't be solved by experience or design:
 
 - Observing data changes
 - Efficiently update after data changes
 
 **lupos** was designed to solve them.
-
-- How to observe data changes - by TypeScript aot analysis and injecting optimized tracking codes
-- How to efficiently update after data changes - by pre-compiling template literal
 
 
 
