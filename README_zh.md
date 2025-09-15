@@ -22,10 +22,10 @@
 - 2004~2008: 武汉大学 - 计算机科学与技术专业
 - 2010~2011: 于深圳一家小公司 (https://cfzx.cn/，现已无法访问) 任前端开发
 - 2011~2015: 于晨星资讯（MorningStar）[Advisor WorkStation](https://workstation.morningstar.com/support/help-topics/blt9ac9152cd301abb7/blt717e87c790ee413a?lang=en-us) 团队任前端开发工程师
-- 2015~2018: 在网旭科技（WangXuTech）担任前端经理
-- 2018~2019: 学习设计，并根据个人兴趣从事个人项目
+- 2015~2018: 在网旭科技（WangXuTech）担任前端主管
+- 2018~2019: 阅读并根据个人兴趣制作项目
 - 2019~2023: 在网旭科技（WangXuTech）担任算法工程师
-- 2023~2025: 思考与设计，从事一些个人的开源项目，如 [lupos](https://github.com/pucelle/lupos)
+- 2024~2025: 学习设计，从事一些个人的开源项目，如 [lupos](https://github.com/pucelle/lupos)
 
 
 
@@ -104,7 +104,7 @@
 
 当时我学习 TypeScript 并希望深入，同时发现此时没有好的 VSCode CSS 插件，因此我创建了这个插件来练习 TypeScript。
 
-它比其竞争对手快 10 倍，且内存使用量和包大小仅为其 1/10。目前有 59 万安装。
+它提供更多的功能，比其竞争对手快 10 倍，且内存使用量和包大小仅为其 1/10。目前有 59 万安装。
 
 
 ### [Azeroth Venture](https://wow.playjournals.com/classic/en/)
@@ -145,7 +145,9 @@ AEGL 旨在使用 OpenGL 渲染 After Effects 模板，我创建它是为了增�
 
 该项目已被放弃，因为它在浏览器上编码视频速度太慢（比桌面应用程序慢 20 倍）。
 
-两年后，Web Codecs API 可用，我更换了视频编码器，编码速度提升了 10 倍。如果目标是实现一个独立的应用程序，而不依赖 AE 制作模板，那么这个项目会更加接近于现实。
+两年后，Web Codecs API 可用，我更换了视频编码器，编码速度提升了 10 倍。
+
+如果目标是实现一个独立的应用程序，而不依赖 AE 制作模板，那么这个项目会更加接近于现实。
 
 
 ### [Mindmap Core](https://github.com/purhya/mindmap-preview)

@@ -22,9 +22,9 @@ My career: <https://github.com/purhya/career>
 - 2010~2011: Worked at a small company in ShenZhen, called <https://cfzx.cn/> (Not available any more), as frontend developer
 - 2011~2015: Worked at MorningStar [Advisor WorkStation](https://workstation.morningstar.com/support/help-topics/blt9ac9152cd301abb7/blt717e87c790ee413a?lang=en-us) team, as frontend developer
 - 2015~2018: Worked at [WangXuTech](https://www.wangxutech.com/), as frontend manager
-- 2018~2019: Learn design, and work on personal projects according to your own interests.
+- 2018~2019: Reading books, and work on personal projects according to your own interests.
 - 2019~2023: Worked at [WangXuTech](https://www.wangxutech.com/), as algorithm engineer
-- 2023~2025: Think and design, working on some open-source projects like [lupos](https://github.com/pucelle/lupos)
+- 2024~2025: Learn design, Working on some open-source projects like [lupos](https://github.com/pucelle/lupos)
 
 
 
@@ -102,7 +102,7 @@ A gap year, making a 'white-space' in mind, reading & learning, try to change fr
 
 When I'm learning TypeScript and wanting to go deeper, and also found no good css plugin at that moment, so I created this plugin to practice my TypeScript skill.
 
-It is 10x faster with only 1/10 memory usage and package size than it's competitors. Has 590K installs recently.
+It provides more features, is 10x faster with only 1/10 memory usage and package size than it's competitors. Has 590K installs recently.
 
 
 ### [Azeroth Venture](https://wow.playjournals.com/classic/en/)
